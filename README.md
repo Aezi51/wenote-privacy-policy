@@ -2,28 +2,73 @@ Privacy Policy for We Note
 
 Effective Date: 24/03/2026
 
-We Note (“we”, “our”, or “us”) operates the We Note mobile application (the “App”). This Privacy Policy explains how we handle user information.
+We Note (“we”, “our”, or “us”) operates the We Note mobile application (the “App”). This Privacy Policy explains how we handle user information and data.
 
 Overview
-We respect your privacy. We Note is designed to function without collecting personal data from users. All notes and to-do lists are stored locally on your device and are not transmitted to our servers.
+We Note is a notes and to-do list application designed to function without collecting personal data from users. We are committed to protecting user privacy and ensuring transparency.
+
+All notes, tasks, and related data created within the app are stored locally on the user’s device and are not transmitted to our servers.
 
 Information We Do Not Collect
-We do not collect, store, or share any personal information such as name, email address, phone number, or location. We do not track users or store any data on external servers.
+We do not collect, store, use, or share any personal information from users. This includes, but is not limited to:
+
+* Name
+* Email address
+* Phone number
+* Location data
+* Contacts
+* Files or media
+
+We do not track users and do not store any data on external servers.
 
 Third-Party Services
-The app uses Google AdMob to display advertisements. AdMob may automatically collect certain information such as device information, IP address, advertising ID, and app interaction data. This data is handled by Google according to their privacy policy: https://policies.google.com/privacy
+The App uses third-party services to support functionality such as advertising.
+
+We use Google AdMob to display advertisements. While we do not collect any user data ourselves, AdMob may automatically collect certain information, including:
+
+* Device information (such as model and operating system)
+* IP address
+* Advertising ID
+* App interaction and usage data
+
+This information is collected and processed by Google in accordance with their privacy policy. For more information, please visit:
+https://policies.google.com/privacy
 
 Advertising
-Ads may be personalized. Users can opt out of personalized ads by going to Settings → Google → Ads → Opt out of Ads Personalization.
+Advertisements displayed in the App may be personalized based on user interests. Users can choose to opt out of personalized advertising by adjusting their device settings:
+
+On Android devices:
+Settings → Google → Ads → Opt out of Ads Personalization
+
+Even if users opt out, they may still see non-personalized advertisements.
 
 Data Storage
-All app data remains on the user’s device. We do not access or store this data externally.
+All user-generated data, including notes and to-do lists, is stored locally on the user’s device. We do not access, collect, or store this data externally.
+
+Users are responsible for managing and backing up their own data.
+
+Data Security
+We prioritize user privacy and do not transmit or store user data externally. However, no method of electronic storage is completely secure, and we cannot guarantee absolute security.
 
 Children’s Privacy
-This app is not directed to children under 13. We do not knowingly collect personal data. However, third-party services like AdMob may collect limited data.
+We Note is not specifically directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children. However, third-party services such as Google AdMob may collect limited data as described above.
+
+If you are a parent or guardian and believe that a child has provided personal information, please contact us so we can take appropriate action.
+
+External Links
+The App may contain links to third-party websites or services. We are not responsible for the content, privacy policies, or practices of any third-party sites.
 
 Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Changes will be posted on this page.
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+Users are encouraged to review this Privacy Policy periodically for any changes.
+
+Your Consent
+By using the App, you agree to this Privacy Policy and its terms.
 
 Contact Us
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, you can contact us at:
+
 Email: [ankitsunar8889@gmail.com](mailto:ankitsunar8889@gmail.com)
